@@ -5,8 +5,8 @@ Build a program for scoring U.S. states' policies toward the COVID-19 pandemic.
 Indicators such as the number of deaths, immunization rates, population, 
 poverty rates, and others must be considered.
 
-Then, use machine learning for understanding the relationship between the number od deaths and other indicators.
-Specify feature importances in descending order.
+Then, use machine learning for understanding the relationship between the number of deaths and other indicators.
+Specify feature-importances in descending order.
 
 
 deaths of US states:
