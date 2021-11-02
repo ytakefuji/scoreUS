@@ -11,9 +11,8 @@ population by state in the US
 
 https://data.ers.usda.gov/Reserved.ReportViewerWebControl.axd?ReportSession=xxboe0jpvnd5xsavlgbsgs55&Culture=1033&CultureOverrides=True&UICulture=1033&UICultureOverrides=True&ReportStack=1&ControlID=255dcdba13a04283aa1e451162f24365&OpType=Export&FileName=PopulationReport&ContentDisposition=OnlyHtmlInline&Format=EXCELOPENXML
 
-poverty rate by state in the US
+Use pov.csv file on poverty rate by state in the US
 
 https://data.ers.usda.gov/reports.aspx?ID=17826
 
-https://www.ers.usda.gov/webdocs/DataFiles/48747/PovertyEstimates.csv?v=1970.9
 
