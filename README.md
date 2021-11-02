@@ -6,7 +6,7 @@ Indicators such as the number of deaths, immunization rates, population,
 poverty rates, and others must be considered.
 
 Then, use machine learning for understanding the relationship between the number od deaths and other indicators.
-Address what are feature importances in decreasing order.
+Specify feature importances in descending order.
 
 
 deaths of US states:
