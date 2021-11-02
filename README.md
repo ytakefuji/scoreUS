@@ -1,4 +1,9 @@
 # scoreUS
+Build a program for calculating scores by state in the US.
+You must take into account on the number of deaths, vaccination rate, 
+population, poverty rate, and others.
+
+
 deaths of states in the US
 
 https://github.com/nytimes/covid-19-data/blob/master/live/us-states.csv
