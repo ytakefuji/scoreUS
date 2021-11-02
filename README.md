@@ -10,6 +10,8 @@ Specify feature-importances in descending order.
 Indicators such as the number of deaths, immunization rates, population, 
 poverty rates, and others must be used in machine learning.
 
+Examine whether the result will play a key role for policymakers in their decision-making against the pandemic?
+
 # deaths of US states:
 
 https://github.com/nytimes/covid-19-data/blob/master/live/us-states.csv
