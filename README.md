@@ -1,4 +1,6 @@
 # scoreUS
+This is a practice for students.
+
 Build a program for scoring U.S. states' policies toward the COVID-19 pandemic.
 Indicators such as the number of deaths, immunization rates, population, 
 poverty rates, and others must be considered.
