@@ -8,7 +8,7 @@ Then, use machine learning for understanding the relationship between its scores
 Specify feature-importances in descending order.
 
 Indicators such as the number of deaths, immunization rates, population, 
-poverty rates, and others must be considered in scoring.
+poverty rates, and others must be used in machine learning.
 
 # deaths of US states:
 
