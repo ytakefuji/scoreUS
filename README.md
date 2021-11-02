@@ -1,13 +1,14 @@
 # scoreUS
 This is a practice for students.
 
-Build a program for scoring U.S. states' policies toward the COVID-19 pandemic.
-Indicators such as the number of deaths, immunization rates, population, 
-poverty rates, and others must be considered in scoring.
+Build a program for scoring U.S. states' policies toward the COVID-19 pandemic. 
+Scoring is based on the number of deaths per population (millions).
 
-Then, use machine learning for understanding the relationship between the number of deaths and other indicators.
+Then, use machine learning for understanding the relationship between its scores and other indicators.
 Specify feature-importances in descending order.
 
+Indicators such as the number of deaths, immunization rates, population, 
+poverty rates, and others must be considered in scoring.
 
 # deaths of US states:
 
