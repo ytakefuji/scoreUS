@@ -1,0 +1,51 @@
+﻿state,rank,value
+Hawaii,1,0.857
+Utah,2,0.612
+New Jersey,3,0.603
+Minnesota,4,0.528
+California,5,0.524
+New York,6,0.387
+Texas,7,0.358
+North Dakota,8,0.353
+Nebraska,9,0.226
+Virginia,10,0.205
+Washington,11,0.196
+Idaho,12,0.187
+Maryland,13,0.177
+Illinois,14,0.169
+Colorado,15,0.15
+Connecticut,16,0.127
+Wyoming,17,0.126
+Massachusetts,18,0.093
+Florida,19,0.075
+Iowa,20,-0.007
+Arizona,21,-0.01
+Rhode Island,22,-0.011
+South Dakota,23,-0.047
+Alaska,24,-0.067
+Nevada,25,-0.126
+Vermont,26,-0.133
+Georgia,27,-0.155
+New Hampshire,28,-0.202
+Pennsylvania,29,-0.203
+Montana,30,-0.254
+North Carolina,31,-0.277
+Kansas,32,-0.288
+Wisconsin,33,-0.34
+Missouri,34,-0.39
+Oregon,35,-0.394
+South Carolina,36,-0.425
+Michigan,37,-0.472
+Ohio,38,-0.493
+Tennessee,39,-0.504
+Indiana,40,-0.541
+Maine,41,-0.565
+Alabama,42,-0.584
+Oklahoma,43,-0.588
+New Mexico,44,-0.593
+Mississippi,45,-0.677
+Delaware,46,-0.697
+Kentucky,47,-0.791
+Louisiana,48,-0.797
+Arkansas,49,-0.922
+West Virginia,50,-0.956
