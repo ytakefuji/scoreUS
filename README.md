@@ -20,7 +20,7 @@ https://github.com/nytimes/covid-19-data/blob/master/live/us-states.csv
 
 https://covid.ourworldindata.org/data/vaccinations/us_state_vaccinations.csv
 
-# Use pop.csv on population by state in the US:
+# Use PopulationReport.csv on population by state in the US:
 
 https://data.ers.usda.gov/reports.aspx?ID=17827
 
