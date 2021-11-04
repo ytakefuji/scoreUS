@@ -1,5 +1,5 @@
 # scoreUS
-This is a practice for students.
+This is a practice or exercise for students.
 
 1. Build a program for scoring U.S. states' policies toward the COVID-19 pandemic. 
 Scoring is based on the number of deaths per population (millions).
