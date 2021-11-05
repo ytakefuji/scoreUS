@@ -32,4 +32,7 @@ https://data.ers.usda.gov/reports.aspx?ID=17826
 
 https://www.americashealthrankings.org/explore/health-of-women-and-children/measure/outcomes_hwc_2020/state/ALL
 
+# education
+
+https://www.nationsreportcard.gov/profiles/stateprofile?chort=1&sub=SCI&sj=AL&sfj=NP&st=MN&year=2015R3
 
