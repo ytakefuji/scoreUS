@@ -1,4 +1,6 @@
 # scoreUS
+This is under review.
+
 This is a practice or exercise for students.
 
 1. Build a program for scoring U.S. states' policies toward the COVID-19 pandemic. 
