@@ -14,7 +14,7 @@ poverty rates, and others must be used in machine learning.
 
 # deaths of US states:
 
-https://github.com/nytimes/covid-19-data/blob/master/live/us-states.csv
+https://github.com/nytimes/covid-19-data/raw/master/live/us-states.csv
 
 # vaccination rate of US states:
 
