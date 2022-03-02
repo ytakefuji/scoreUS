@@ -12,7 +12,7 @@ poverty rates, and others must be used in machine learning.
 
 3. Examine whether the result will play a key role for policymakers in their decision-making against the pandemic.
 
-<img src=  width=515 height=1507>
+<img src=https://github.com/ytakefuji/scoreUS/raw/main/score.png  width=515 height=1507>
 
 # deaths of US states:
 
