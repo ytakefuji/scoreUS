@@ -14,6 +14,15 @@ poverty rates, and others must be used in machine learning.
 
 3. Examine whether the result will play a key role for policymakers in their decision-making against the pandemic.
 
+# How to install usscore on Linux, MacOS, or WSL on Windows
+$ pip install usscore
+
+# How to install usscore on Windows 11 or 11
+$ pip install usscore --force-reinstall --no-cache-dir --no-binary :all:
+
+# how to run usscore
+$ usscore
+
 The result of computed scores is shown as follows as of March2 2022.
 
 <img src=https://github.com/ytakefuji/scoreUS/raw/main/score.png  width=515 height=1507>
