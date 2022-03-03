@@ -14,7 +14,7 @@ poverty rates, and others must be used in machine learning.
 
 3. Examine whether the result will play a key role for policymakers in their decision-making against the pandemic.
 
-Result is shown as follows.
+The result of computed scores is shown as follows as of March2 2022.
 
 <img src=https://github.com/ytakefuji/scoreUS/raw/main/score.png  width=515 height=1507>
 
