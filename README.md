@@ -17,7 +17,7 @@ poverty rates, and others must be used in machine learning.
 # How to install usscore on Linux, MacOS, or WSL on Windows
 $ pip install usscore
 
-# How to install usscore on Windows 11 or 11
+# How to install usscore on Windows 11 or 10
 $ pip install usscore --force-reinstall --no-cache-dir --no-binary :all:
 
 # how to run usscore
