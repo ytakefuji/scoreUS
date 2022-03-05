@@ -27,6 +27,11 @@ The result of sorted scores is shown as follows as of March 4 2022.
 
 <img src=https://github.com/ytakefuji/scoreUS/raw/main/score.png  width=515 height=1507>
 
+
+Comparison with other countries on scores:
+
+<img src=https://github.com/ytakefuji/scoreUS/raw/main/world.png  width=515 height=1507>
+
 # deaths of US states:
 
 https://github.com/nytimes/covid-19-data/raw/master/live/us-states.csv
