@@ -1,0 +1,8 @@
+1) git init
+2) git add ['filename']
+3) git commit -m "test"
+4) git switch -c exp
+5) git push -f origin exp
+git pull origin exp
+git remote add origin https://github.com/ytakefuji/scoreUS.git
+
