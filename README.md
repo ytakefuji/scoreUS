@@ -14,6 +14,8 @@ poverty rates, and others must be used in machine learning.
 
 3. Examine whether the result will play a key role for policymakers in their decision-making against the pandemic.
 
+https://data.cdc.gov/api/views/9bhg-hcku/rows.csv
+
 # How to install usscore on Linux, MacOS, or WSL on Windows
 $ pip install usscore
 
