@@ -23,7 +23,7 @@ $ pip install usscore --force-reinstall --no-cache-dir --no-binary :all:
 # how to run usscore
 $ usscore
 
-The result of sorted scores is shown as follows as of March 6 2022.
+The result of sorted scores is shown as follows as of March 8 2022.
 
 <img src=https://github.com/ytakefuji/scoreUS/raw/main/score.png  width=515 height=1507>
 
