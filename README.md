@@ -48,6 +48,8 @@ https://covid.ourworldindata.org/data/vaccinations/us_state_vaccinations.csv
 
 https://data.ers.usda.gov/reports.aspx?ID=17827
 
+https://www2.census.gov/programs-surveys/popest/datasets/2020-2021/state/totals/NST-EST2021-alldata.csv
+
 # Use pov.csv file on poverty rate by state in the US:
 
 https://data.ers.usda.gov/reports.aspx?ID=17826
