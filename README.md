@@ -16,6 +16,11 @@ poverty rates, and others must be used in machine learning.
 
 https://data.cdc.gov/api/views/9bhg-hcku/rows.csv
 
+usscore is to score state COVID-19 policies in the US. 
+Scoring is calculated by dividing the number of deaths due to COVID-19 by the population in millions.
+The goal of usscore is for states with poor scores to learn good strategies from states with excellent scores.
+
+
 # How to install usscore on Linux, MacOS, or WSL on Windows
 $ pip install usscore
 
