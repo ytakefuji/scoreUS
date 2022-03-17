@@ -1,7 +1,7 @@
 # scoreUS
 This is under review.
 
-Reproducibility is guaranteed by codeocean:
+Verification for computational reproducibility & quality is doned by codeocean:
 https://codeocean.com/capsule/e14c55c9-376c-4ece-8d3b-50c7aebe4c23/tree
 
 This is a practice or exercise for students.
