@@ -1,6 +1,9 @@
 # scoreUS
 This is under review.
 
+Reproducibility is guaranteed by codeocean:
+https://codeocean.com/capsule/e14c55c9-376c-4ece-8d3b-50c7aebe4c23/tree
+
 This is a practice or exercise for students.
 
 1. Build a program for scoring U.S. states' policies toward the COVID-19 pandemic. 
