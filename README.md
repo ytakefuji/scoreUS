@@ -1,10 +1,8 @@
 # scoreUS
-This is under review.
-
 [![Open in Code Ocean](https://codeocean.com/codeocean-assets/badge/open-in-code-ocean.svg)](https://codeocean.com/capsule/e14c55c9-376c-4ece-8d3b-50c7aebe4c23/tree)
 
-Verification for computational reproducibility & quality is doned by codeocean:
-https://codeocean.com/capsule/e14c55c9-376c-4ece-8d3b-50c7aebe4c23/tree
+This is under review.
+
 
 This is a practice or exercise for students.
 
