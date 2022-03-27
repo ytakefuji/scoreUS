@@ -1,6 +1,8 @@
 # scoreUS
 [![Open in Code Ocean](https://codeocean.com/codeocean-assets/badge/open-in-code-ocean.svg)](https://codeocean.com/capsule/e14c55c9-376c-4ece-8d3b-50c7aebe4c23/tree)
 
+DOI: https://doi.org/10.24433/CO.2791944.v1
+
 This is under review.
 
 
